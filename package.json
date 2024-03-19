@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "isolated-vm": "^4.7.2",
+    "minecraft-protocol": "^1.44.0",
+    "prismarine-chat": "^1.9.1",
+    "prismarine-registry": "^1.7.0"
+  }
+}
